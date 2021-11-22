@@ -3,5 +3,8 @@ Cameron Daize - 100697095 <br/>
 Rushin Chudasama - 100740374 <br/>
 Sehaj Behl - 100748987
 
-Link to Question 1:
+# Link to Question 1:
 [Question 1](/CompanyProject)
+
+# Link to Question 2:
+[Question 1](/Question_2)
