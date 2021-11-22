@@ -9,7 +9,7 @@ Sehaj Behl - 100748987
 # Link to Question 1:
 [Question 1](/CompanyProject)
 
-(/CompanyProject/question1image.jpg)
+![alt text](/CompanyProject/question1image.jpg)
 
 # Link to Question 2:
 [Question 1](/Question_2)
