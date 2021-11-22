@@ -12,4 +12,4 @@ Sehaj Behl - 100748987
 ![alt text](/CompanyProject/question1image.jpg)
 
 # Link to Question 2:
-# [Question 1](/Question_2)
+# [Question 2](/Question_2)
