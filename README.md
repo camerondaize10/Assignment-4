@@ -4,7 +4,7 @@ Rushin Chudasama - 100740374 <br/>
 Sehaj Behl - 100748987
 
 # Disclamer: If you are to run the code, please download the zipped files from the link below:
-# [Download Zipped Files for testing](/ZippedFiles)
+# [Download Zip Files For Testing](/ZippedFiles)
 
 # [Link to Question 1](/CompanyProject)
 
