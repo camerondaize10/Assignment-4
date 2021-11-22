@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 4 align="center"
 
 Cameron Daize - 100697095 <br/>
 Rushin Chudasama - 100740374 <br/>
