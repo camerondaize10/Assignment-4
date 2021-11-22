@@ -3,7 +3,7 @@ Cameron Daize - 100697095 <br/>
 Rushin Chudasama - 100740374 <br/>
 Sehaj Behl - 100748987
 
-#Disclamer: If you are to run the code, please download the zipped files from the link below:
+# Disclamer: If you are to run the code, please download the zipped files from the link below:
 [Zipped Files](/ZippedFiles)
 
 # Link to Question 1:
