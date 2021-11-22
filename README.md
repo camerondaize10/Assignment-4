@@ -6,8 +6,8 @@ Sehaj Behl - 100748987
 # Disclamer: If you are to run the code, please download the zipped files from the link below:
 # [Zipped Files](/ZippedFiles)
 
-# [Question 1](/CompanyProject)
+# [Link to Question 1](/CompanyProject)
 
 ![alt text](/CompanyProject/question1image.jpg)
 
-# [Question 2](/Question_2)
+# [Link to Question 2](/Question_2)
