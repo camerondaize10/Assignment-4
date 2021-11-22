@@ -1,4 +1,6 @@
-# Assignment 4
+<p align="center">
+    # Assignment 4
+</p>
 Cameron Daize - 100697095 <br/>
 Rushin Chudasama - 100740374 <br/>
 Sehaj Behl - 100748987
